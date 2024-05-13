@@ -1,0 +1,7 @@
+.cabecalho__titulo{
+    font-family: var(--fonte-primaria);
+    font-weight:300;
+    font-size: 20px;
+    text-align: center;
+    padding: 1em 0;
+}
